@@ -11,5 +11,6 @@ namespace ConsoleApp1
         public string Nome { get; set; }
         public int AnoCriacao { get; set;}
         public int Pontuacao { get; set;}
+
     }
 }

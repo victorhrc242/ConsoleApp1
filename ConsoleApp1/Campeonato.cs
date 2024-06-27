@@ -10,5 +10,6 @@ namespace ConsoleApp1
     {
         public string Nome { get; set; }
         List<Time> times = new List<Time>();
+
     }
 }
