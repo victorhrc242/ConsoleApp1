@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     public class jogador
     {
-    public string Nome { get; set; }
+    public string Nomes { get; set; }
     public int Idade { get; set; }
     public double Peso { get; set; }
     public int NumeroGols { get; set; }

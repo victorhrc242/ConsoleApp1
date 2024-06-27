@@ -11,7 +11,7 @@ namespace ConsoleApp1
         List<jogador>i=new List<jogador>();
 
 
-        public int GolsTimeCasa { get; set; }
+        public int GolsTimeCasas { get; set; }
         public int GolsTimeVisitante { get; set; }
         public string MensagemResultadoPartida { get; set; }
 
